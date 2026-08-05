@@ -94,12 +94,12 @@ I don't have structured public repositories yet — my current studies are conce
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://bottenedev.vercel.app/api?username=bottenedev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-phi-eight-13.vercel.app/api?username=bottenedev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bottenedev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://bottenedev.vercel.app/api/top-langs/?username=bottenedev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-phi-eight-13.vercel.app/api/top-langs/?username=bottenedev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
