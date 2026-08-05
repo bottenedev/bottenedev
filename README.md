@@ -94,20 +94,13 @@ I don't have structured public repositories yet — my current studies are conce
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-eight.vercel.app/api?username=bottenedev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://bottenedev.vercel.app/api?username=bottenedev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bottenedev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=bottenedev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://bottenedev.vercel.app/api/top-langs/?username=bottenedev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-<!--
-Se essas duas imagens continuarem quebradas mesmo depois de atualizar a página,
-hospede sua própria versão gratuita em:
-https://github.com/anuraghazra/github-readme-stats (botão "Deploy your own instance")
-e substitua "github-readme-stats-sigma-eight.vercel.app" pelo link que você receber.
--->
 
 ---
 
